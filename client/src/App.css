@@ -1,0 +1,246 @@
+  a{
+  color:black !important;
+}
+.brand-logo{
+    font-family: 'Grand Hotel', cursive;
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 40px!important;
+}
+
+.mycard{
+    margin-top:50px;
+}
+.auth-card{
+    padding: 20px;
+    text-align:center;
+    max-width: 600px;
+    margin: 10px auto;
+}
+.auth-card h2{
+    font-size: 50px;
+   font-weight: 500;
+   font-family: 'Grand Hotel', cursive; 
+}  
+.gellery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.item{
+    width: 30%;
+    height: 10%;
+    padding: 5px;
+}
+.home-card{
+    max-width: 500px;
+    height: max-content;
+    margin: 26px auto;
+}
+.home-card h5{
+    padding: 8px 0 8px 20px;
+}
+.home{
+    margin-top: 50px;
+}
+
+#toast-container{
+    top:30px !important;
+    right: 20px !important;
+    left: auto !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  
+ *{
+    padding: 0px;
+    margin:0px ;
+    box-sizing: border-box;
+    list-style: none;
+}
+nav{
+    width: 100%;
+    height: 12vh;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    box-shadow: 0px 0px 3px 3px rgba(0,0,0,.5);
+    background-color: white;
+}
+nav .logo{
+   font-size: 40px;
+   font-weight: 500;
+   font-family: 'Grand Hotel', cursive;
+   margin-left: 30px;
+   text-decoration: none;
+   color: black;
+
+}
+ul{
+    display: flex;
+
+}
+ul .nav-item{
+    padding: 20px;
+    text-decoration: none;
+    margin-right: 60px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-transform: capitalize;
+}
+.nav-item:Hover{
+    background-color:none;
+}
+section{
+    width: 100%;
+    height: 87vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 600px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0px 5px 10px 5px rgba(0,0,0,0.5);
+}
+.card h1{
+    font-size: 50px;
+    font-weight: 500;
+    font-family:'Grand Hotel', cursive;
+}
+.card input{
+    width: 300px;
+    border: none;
+    border-bottom: 2px solid gold;
+    outline: none;
+    padding: 20px 0px 10px 0px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    margin-bottom: 50px;
+}
+.card .cardbtn{
+    padding:11px 50px;
+    border:none;
+    outline: none;
+    background-color:gold;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform:uppercase;
+    color:blanchedalmond;
+    margin-top: 30px;
+}
+h6{
+    font-size: 14px;
+    font-weight: 700;
+    font-family:sans-serif;
+}
+.Gallery{
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-top: 30px ;
+}
+.Gallery img{
+    width: 200px;
+    height: 150px;
+}
+.homepage{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px ;
+}
+.home-card{
+    box-shadow:  0px 6px 10px 6px rgba(0,0,0,0.5);
+    padding:20px 0px ;
+    margin: 30px 0px;
+}
+.home-card h2{
+    margin: 0px 0px 10px 10px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform:capitalize;
+}
+.card-content{
+    margin: 20px 0px 0px 10px;
+    
+
+}
+.card-content h5{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-transform:capitalize;
+    margin-bottom: 6px;
+}
+.card-content p{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-transform:capitalize;
+}
+.card-content input{
+    width: 300px;
+    border: none;
+    border-bottom: 2px solid gold;
+    outline: none;
+    padding: 10px 0px 10px 0px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+}
+#toast-container{
+    top:30px;
+    right:50px;
+    left: auto;
+    width: 300px;
+}
+.commentbox{
+    border-bottom: 2px solid grey!important;
+}   */
